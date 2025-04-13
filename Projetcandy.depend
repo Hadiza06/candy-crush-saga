@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1734365475 source:c:\users\cdjen\onedrive\bureau\programation c\projetcandy\candy.c
+	"crush.h"
+
+1734363828 c:\users\cdjen\onedrive\bureau\programation c\projetcandy\crush.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"crush.h"
+
+1734363542 source:c:\users\cdjen\onedrive\bureau\programation c\projetcandy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"crush.h"
+
